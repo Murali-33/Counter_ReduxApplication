@@ -2,6 +2,8 @@
 
 This is a simple React Redux application that demonstrates the basic implementation of a counter using React Redux. The app allows users to increment, decrement, and reset the counter value.
 
+URL :https://Murali-33.github.io/Counter_ReduxApplication
+
 ## Table of Contents
 
 - [Technologies Used]
